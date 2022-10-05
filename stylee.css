@@ -1,0 +1,22 @@
+body{
+    background-color: #0c3763;
+}
+
+*{
+    color: white;
+}
+
+ul .materias{
+    color: red;
+}
+
+.semana{
+    color: black;
+    background-color: yellow;
+    border-style:groove;
+}
+.subtitulo{
+    color: yellow;
+}
+
+
